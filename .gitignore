@@ -12,4 +12,4 @@ pycache
 .env
 .venv
 */__pycache__/*/*
-
+build
